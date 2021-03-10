@@ -1,3 +1,0 @@
-# none 
-<br>
-only Cur
